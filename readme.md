@@ -6,7 +6,7 @@
 - MySQL
 
 ### Recursos
--Usuários
+- Usuários
 - Posts
 - Comentários
 - Curtidas
